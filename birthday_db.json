@@ -1,0 +1,31 @@
+{
+  "user1": {
+    "password": "password1",
+    "birthday": {
+      "month": 10,
+      "day": 20
+    },
+    "subscriptions": [
+      "user2",
+      "user3"
+    ]
+  },
+  "user2": {
+    "password": "password2",
+    "birthday": {
+      "month": 12,
+      "day": 15
+    },
+    "subscriptions": [
+      "user1"
+    ]
+  },
+  "user3": {
+    "password": "password3",
+    "birthday": {
+      "month": 5,
+      "day": 8
+    },
+    "subscriptions": []
+  }
+}
